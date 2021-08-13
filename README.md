@@ -7,15 +7,21 @@ The webpage was customized using Bootstrap, which helped to get the table with s
 
 **Results**
 
-UFO webpage visitors can use search criteria to view different results based on their preferences or what information they are trying to find. During the filtering process user can use all filters together or one or two.
-
 ![picture](images/one.PNG)
 
+UFO webpage visitors can use search criteria to view different results based on their preferences or what information they are trying to find. During the filtering process user can use all filters together or one or two.
 
+Results by Using one filter, shape:
 
+![picture](images/shape.png)
 
+Results by Using tow filters, city and state:
 
+![picture](images/state.png)
 
+Table without using any filter:
+
+![picture](images/two.PNG)
 
 
 **Summary**
